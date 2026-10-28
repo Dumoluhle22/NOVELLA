@@ -67,4 +67,4 @@ streamlit run app.py      # launches the search UI
 
 ## Project background
 
-This project was built for a Cyber & Data Engineering elective, as the data engineering component. The focus is on the retrieval pipeline: cleaning and embedding a large dataset, indexing it for fast semantic search, and using a two-stage LLM process (query expansion + reranking) to improve result quality beyond simple vector similarity.
+This project was built for a Data Engineering elective, as the data engineering component. The focus is on the retrieval pipeline: cleaning and embedding a large dataset, indexing it for fast semantic search, and using a two-stage LLM process (query expansion + reranking) to improve result quality beyond simple vector similarity.
