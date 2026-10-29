@@ -2,6 +2,8 @@
 
 A semantic book recommendation app built for a Cyber & Data Engineering elective. Instead of searching by title or keyword, you describe the kind of story you want — mood, themes, setting — and Novella finds books that actually match.
 
+WETHINKCODE vdrification code: WTC-JZWNKUTZ
+
 ## How it works
 
 Novella is a three-stage pipeline:
